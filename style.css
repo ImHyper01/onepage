@@ -1,0 +1,90 @@
+.header {
+    padding: 6px;
+    text-align: center;
+    background: url('grey.jpg');
+    color: black;
+    font-size: 11px;
+    font-family: Century;
+  }
+
+.block{
+    width:300px;
+	height:300px;
+	margin-left:300px;
+	padding:50px;
+    border-radius: 25px;
+    color: white;
+    background: url('jungle.png');
+    font-family: Century;
+}
+
+.block2{
+    width: 300px;
+	height:300px;
+	margin-left:750px;
+	padding:50px;
+    border-radius: 25px;
+    color: white;
+    background: url('jungle.png');
+    font-family: Century;
+}
+
+.block3{
+    width:300px;
+	height:300px;
+	margin-left:300px;
+	padding:50px;
+    border-radius: 25px;
+    color: white;
+    background: url('jungle.png');
+    font-family: Century;
+}
+
+.image{
+    
+    display: inline-block;
+}
+
+.image2{
+    display: inline-block;
+}
+
+.image3{
+    display: inline-block;
+}
+
+.left{
+    display: inline-block;
+    width:300px;
+	height:300px;
+	margin-left:300px;
+	padding:50px;
+    border-radius: 25px;
+    color: white;
+    background: url('jungle.png');
+    font-family: Century;
+}
+
+.right{
+    display: inline-block;
+    width: 300px;
+	height:300px;
+	margin-left: 750px;
+	padding:50px;
+    border-radius: 25px;
+    color: white;
+    background: url('jungle.png');
+    font-family: Century;
+}
+
+.left2{
+    display: inline-block;
+    width:300px;
+	height:300px;
+	margin-left:300px;
+	padding:50px;
+    border-radius: 25px;
+    color: white;
+    background: url('jungle.png');
+    font-family: Century;
+}
